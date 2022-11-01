@@ -1,0 +1,23 @@
+{
+  "name": "jci_oau-web",
+  "version": "1.0.0",
+  "description": "Website source code for JCIOAU Webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SogoAG/JCI.git"
+  },
+  "author": "Agunbiade Gbenga, Damian Gabriel, Owolabi Almond, Oni Tijesunmi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SogoAG/JCI/issues"
+  },
+  "homepage": "https://github.com/SogoAG/JCI#readme",
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "bootstrap": "^5.2.2"
+  }
+}
