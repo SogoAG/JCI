@@ -18,6 +18,7 @@
   "homepage": "https://github.com/SogoAG/JCI#readme",
   "dependencies": {
     "boostrap": "^2.0.0",
-    "bootstrap": "^5.2.2"
+    "bootstrap": "^5.2.2",
+    "font-awesome": "^4.7.0"
   }
 }
