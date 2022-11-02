@@ -4,7 +4,6 @@
 
 * {
   box-sizing: border-box;
-  scroll-behavior: smooth;
 }
 
 
@@ -174,6 +173,10 @@ section#section{
 #image{
   width: 80%;
   margin: auto;
+}
+
+footer#footer{
+  margin-top: 30px;
 }
 
 .icons>a>i{
@@ -355,6 +358,14 @@ section#section{
   #day {
     font-size: 16px;
   }
+
+  .icons > a > i{
+    font-size: 1.5rem;
+  }
+
+  div#hero.container{
+    padding: 80px 20px 20px 20px;
+  }
 }
 
 @media (max-width: 375px) {
@@ -371,8 +382,4 @@ section#section{
   #hero-left>p {
     font-size: 16px;
   }
-}
-
-@media (min-width : 426px) {
-  section {}
 }
