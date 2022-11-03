@@ -82,7 +82,7 @@ nav.navbar.navbar-expand-lg.navbar-light {
   text-transform: uppercase;
 }
 
-.navbar-nav>li:last-child>a {
+/* .navbar-nav>li:last-child>a {
   color: var(--blue);
   transition: all 0.3s ease-in-out;
 }
@@ -90,7 +90,7 @@ nav.navbar.navbar-expand-lg.navbar-light {
 .navbar-nav>li:last-child>a:hover {
   color: #7bc141;
   transition: all 0.3s ease-in-out;
-}
+} */
 
 span.fa.fa-bars {
   font-size: 1.8rem;
